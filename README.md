@@ -33,3 +33,10 @@ python tetris_game.py
 
 ## Run the Tests
 python test_tetris_game.py
+
+## License
+This project is licensed under the MIT License.
+
+## Author
+- Andrei Iliescu
+- Built with focus on clean UI and functional design.
