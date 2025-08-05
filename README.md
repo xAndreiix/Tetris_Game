@@ -2,6 +2,8 @@
 
 This is a classic Tetris game implemented in Python using the Pygame library. It includes all the core mechanics such as shape rotation, collision detection, row clearing, scoring, and increasing difficulty levels.
 
+---
+
 ## Features
 
 - All 7 classic Tetris shapes with rotation logic
@@ -9,6 +11,8 @@ This is a classic Tetris game implemented in Python using the Pygame library. It
 - Collision and boundary detection
 - Row-clearing mechanism
 - Game over screen and restart from menu
+
+---
 
 ## File Structure
 
@@ -18,24 +22,36 @@ This is a classic Tetris game implemented in Python using the Pygame library. It
 - `README.md`: Project documentation.
 - `LICENSE`: Open-source license (MIT).
 
+---
+
 ## Requirements
 
 - Python 3.x
 - `pygame` library
+
+---
 
 ## Installation
 
 ```bash```
 pip install pygame
 
+---
+
 ## Run the Game
 python tetris_game.py
+
+---
 
 ## Run the Tests
 python test_tetris_game.py
 
+---
+
 ## License
 This project is licensed under the MIT License.
+
+---
 
 ## Author
 - Andrei Iliescu
